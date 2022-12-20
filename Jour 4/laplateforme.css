@@ -1,0 +1,148 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* HEADER */
+
+header {
+font-weight: bold;
+background-color: #036e2e;
+padding-bottom: 2%;
+}
+
+.logoheader {
+display: flex;
+justify-content: center;
+}
+
+.laplateforme {
+border: solid 5px #d89d06;
+border-radius: 10px;
+margin-top: 2%;
+margin-bottom: 2%;
+}
+
+li {
+display: inline;
+list-style-type: none;
+border: solid 5px #d89d06;
+border-radius: 10px;
+padding: 1%;
+background-color: #d89d06;
+margin: 1%;
+}
+
+
+/* MAIN */
+
+h1 {
+text-align: center;
+color: #036e2e;
+}
+
+.logopartenaire {
+border: 5px solid #d89d06;
+border-radius: 10px;
+max-width: 100%;
+margin-bottom: 2%;
+}
+
+form {
+border: solid 5px #d89d06;
+border-radius: 10px;
+}
+
+.parent1 {
+display: flex;
+justify-content: space-between;
+margin: 5%;
+text-align: center;
+}
+
+.child1 {
+border: solid 5px #d89d06;
+border-radius: 10px;
+background-color: #036e2e;
+width: 33%;
+margin: 1%;
+text-align: center;
+padding: 2%;
+}
+.child2 {
+border: solid 5px #d89d06;
+border-radius: 10px;
+background-color: #036e2e;
+width: 33%;
+margin: 1%;
+text-align: center;
+padding: 2%;
+}
+.child3 {
+border: solid 5px #d89d06;
+border-radius: 10px;
+background-color: #036e2e;
+width: 33%;
+margin: 1%;
+text-align: center;
+padding: 2%;
+}
+
+
+/* VIDEO */
+
+iframe {
+border: solid 5px #d89d06;
+border-radius: 10px;
+} 
+.video {
+display: flex;
+justify-content: space-between;
+margin: 5%;
+}
+.video2 {
+display: flex;
+justify-content: center;
+margin: 5%;
+}
+
+
+/* PHOTO */
+
+.map {
+display: flex;
+justify-content: center;
+margin-top: 5%;
+margin-bottom: 5%;
+}
+
+/* FOOTER */
+
+footer {
+font-weight: bold;
+display: flex;
+justify-content: center;
+background-color: #036e2e;
+}
+
+.reseauxsociaux {
+border: solid 5px #d89d06;
+border-radius: 10px;
+text-align: center;
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+margin: 1%;
+padding: 2%;
+}
+
+.infos {
+border: solid 5px #d89d06;
+border-radius: 10px;
+text-align: center;
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+margin: 1%;
+padding: 2%;
+}
+
